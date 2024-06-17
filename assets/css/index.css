@@ -1,4 +1,8 @@
-
+@media screen and (max-width: 1300px) {
+    aside {
+        display:none
+    }
+}
 
 /* Base styles */
 
